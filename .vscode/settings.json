@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Aeron Chris\\.virtualenvs\\pages-TcRmZl8B\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Aeron Chris\\.virtualenvs\\pages-TcRmZl8B\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true
 }
